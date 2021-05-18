@@ -1,7 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supuns&label=Profile%20views&color=0e75b6&style=flat" alt="supuns" /> </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=supuns&theme=default&show_icons=true)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supuns&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **SupunS/SupunS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
